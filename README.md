@@ -13,7 +13,7 @@ Currently, the parts required to complete this project are:
 
 To-Do:  
 {X}	2/14/21	Start  
-{}	Finish the mk1 PCB by sizing screw holes, lines, and moving the (+) indicator.  
+{X}	Finish the mk1 PCB by sizing screw holes, lines, and moving the (+) indicator.  
 {}	Test out the function and snap-into-place-yness.  
 {}	Create basic 3D model for stand.  
 {}	Figure out how to weight it down to avoid adhesive.  

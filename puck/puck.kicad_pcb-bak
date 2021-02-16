@@ -30,7 +30,7 @@
     (46 B.CrtYd user)
     (47 F.CrtYd user)
     (48 B.Fab user)
-    (49 F.Fab user hide)
+    (49 F.Fab user)
   )
 
   (setup
@@ -61,7 +61,7 @@
     (pad_drill 0.762)
     (pad_to_mask_clearance 0)
     (aux_axis_origin 0 0)
-    (visible_elements 7FFFFFFF)
+    (visible_elements 7FFFFF9F)
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
       (usegerberextensions false)
@@ -102,8 +102,8 @@
     (uvia_drill 0.1)
   )
 
-  (module TestPoint:TestPoint_Pad_1.0x1.0mm (layer F.Cu) (tedit 5A0F774F) (tstamp 60295920)
-    (at 49 45.5)
+  (module TestPoint:TestPoint_Pad_1.0x1.0mm (layer F.Cu) (tedit 5A0F774F) (tstamp 602AD45D)
+    (at 61.25 45.5)
     (descr "SMD rectangular pad as test Point, square 1.0mm side length")
     (tags "test point SMD pad rectangle square")
     (attr virtual)
@@ -127,8 +127,8 @@
     (pad 1 smd rect (at 0 0) (size 1 1) (layers F.Cu F.Mask))
   )
 
-  (module TestPoint:TestPoint_Pad_1.0x1.0mm (layer F.Cu) (tedit 5A0F774F) (tstamp 60295906)
-    (at 50 46.5)
+  (module TestPoint:TestPoint_Pad_1.0x1.0mm (layer F.Cu) (tedit 5A0F774F) (tstamp 602AD363)
+    (at 62.25 46.5)
     (descr "SMD rectangular pad as test Point, square 1.0mm side length")
     (tags "test point SMD pad rectangle square")
     (attr virtual)
@@ -152,8 +152,8 @@
     (pad 1 smd rect (at 0 0) (size 1 1) (layers F.Cu F.Mask))
   )
 
-  (module TestPoint:TestPoint_Pad_1.0x1.0mm (layer F.Cu) (tedit 5A0F774F) (tstamp 602958EC)
-    (at 51 45.5)
+  (module TestPoint:TestPoint_Pad_1.0x1.0mm (layer F.Cu) (tedit 5A0F774F) (tstamp 602AD436)
+    (at 63.25 45.5)
     (descr "SMD rectangular pad as test Point, square 1.0mm side length")
     (tags "test point SMD pad rectangle square")
     (attr virtual)
@@ -177,8 +177,8 @@
     (pad 1 smd rect (at 0 0) (size 1 1) (layers F.Cu F.Mask))
   )
 
-  (module TestPoint:TestPoint_Pad_1.0x1.0mm (layer F.Cu) (tedit 5A0F774F) (tstamp 602958D2)
-    (at 50 44.5)
+  (module TestPoint:TestPoint_Pad_1.0x1.0mm (layer F.Cu) (tedit 5A0F774F) (tstamp 602AD3E8)
+    (at 62.25 44.5)
     (descr "SMD rectangular pad as test Point, square 1.0mm side length")
     (tags "test point SMD pad rectangle square")
     (attr virtual)
@@ -202,8 +202,8 @@
     (pad 1 smd rect (at 0 0) (size 1 1) (layers F.Cu F.Mask))
   )
 
-  (module TestPoint:TestPoint_Pad_1.0x1.0mm (layer F.Cu) (tedit 5A0F774F) (tstamp 602958AB)
-    (at 50 45.5)
+  (module TestPoint:TestPoint_Pad_1.0x1.0mm (layer F.Cu) (tedit 5A0F774F) (tstamp 602AD40F)
+    (at 62.25 45.5)
     (descr "SMD rectangular pad as test Point, square 1.0mm side length")
     (tags "test point SMD pad rectangle square")
     (attr virtual)
@@ -445,7 +445,7 @@
   (gr_line (start 50 48) (end 42.5 48) (layer Dwgs.User) (width 0.15))
   (gr_line (start 67.5 50) (end 32.5 50) (layer Cmts.User) (width 0.15))
   (gr_line (start 50 50) (end 50 67.5) (layer Cmts.User) (width 0.15) (tstamp 60294734))
-  (gr_line (start 50 50) (end 50 32.5) (layer Cmts.User) (width 0.15))
+  (gr_line (start 50 50) (end 50 32.5) (layer Cmts.User) (width 0.15) (tstamp 602AD3A5))
 
   (segment (start 44.5 50) (end 37.75 50) (width 0.5) (layer F.Cu) (net 0))
   (segment (start 55.5 50) (end 62.25 50) (width 0.5) (layer F.Cu) (net 0))
